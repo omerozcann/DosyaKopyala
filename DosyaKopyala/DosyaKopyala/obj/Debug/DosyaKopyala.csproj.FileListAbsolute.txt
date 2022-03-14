@@ -1,0 +1,10 @@
+D:\Belgeler\Visual Studio 2019\Projects\DosyaKopyala\DosyaKopyala\bin\Debug\DosyaKopyala.exe.config
+D:\Belgeler\Visual Studio 2019\Projects\DosyaKopyala\DosyaKopyala\bin\Debug\DosyaKopyala.exe
+D:\Belgeler\Visual Studio 2019\Projects\DosyaKopyala\DosyaKopyala\bin\Debug\DosyaKopyala.pdb
+D:\Belgeler\Visual Studio 2019\Projects\DosyaKopyala\DosyaKopyala\obj\Debug\DosyaKopyala.csproj.AssemblyReference.cache
+D:\Belgeler\Visual Studio 2019\Projects\DosyaKopyala\DosyaKopyala\obj\Debug\DosyaKopyala.Form1.resources
+D:\Belgeler\Visual Studio 2019\Projects\DosyaKopyala\DosyaKopyala\obj\Debug\DosyaKopyala.Properties.Resources.resources
+D:\Belgeler\Visual Studio 2019\Projects\DosyaKopyala\DosyaKopyala\obj\Debug\DosyaKopyala.csproj.GenerateResource.cache
+D:\Belgeler\Visual Studio 2019\Projects\DosyaKopyala\DosyaKopyala\obj\Debug\DosyaKopyala.csproj.CoreCompileInputs.cache
+D:\Belgeler\Visual Studio 2019\Projects\DosyaKopyala\DosyaKopyala\obj\Debug\DosyaKopyala.exe
+D:\Belgeler\Visual Studio 2019\Projects\DosyaKopyala\DosyaKopyala\obj\Debug\DosyaKopyala.pdb
